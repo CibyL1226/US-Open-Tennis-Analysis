@@ -2,6 +2,8 @@
 
 link to original dataset: https://github.com/JeffSackmann/tennis_atp
 
+Report slide deck: scratching_the_sruface PDF
+
 tourney_id
 - a unique identifier for each tournament, such as 2020-888. The exact formats are borrowed from several different sources, so while the first four characters are always the year, the rest of the ID doesn't follow a predictable structure.
 
